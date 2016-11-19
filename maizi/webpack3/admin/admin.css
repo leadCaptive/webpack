@@ -1,0 +1,9 @@
+body {
+    background: url(../images/background.png);
+    color: red;
+}
+
+
+h1:before {
+    content: url(../icons/admin.png);
+}

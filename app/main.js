@@ -1,7 +1,7 @@
 //main.js
 // var greeter = require('./Greeter.js');
 // document.getElementById('root').appendChild(greeter());
-
+'use static'
 // 使用ES6的模块定义
 import React from 'react';
 import {render} from 'react-dom';
